@@ -1,0 +1,3 @@
+# BorderlandsDemake
+
+I decided to make a borderlands sidescroller to learn UE4. I choose to do Borderlands 2 since it was a game I was very familiar with (I have almost 300 hours of play time on Steam) in terms of plot, characters, levels and gameplay. Additionally by doing a side scroller (rather than a fps) I am actually able to work on more parts of the game since its a more reasonable sized project. 
