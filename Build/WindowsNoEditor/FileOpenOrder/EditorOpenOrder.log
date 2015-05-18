@@ -1,0 +1,649 @@
+"C:/Users/Ian/Programming/Game/BorderlandsDemake/BorderlandsDemake.uproject" 1
+"../../../Engine/Plugins/2D/Paper2D/Paper2D.uplugin" 2
+"../../../Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin" 3
+"../../../Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin" 4
+"../../../Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin" 5
+"../../../Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin" 6
+"../../../Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin" 7
+"../../../Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin" 8
+"../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin" 9
+"../../../Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin" 10
+"../../../Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin" 11
+"../../../Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin" 12
+"../../../Engine/Plugins/Editor/PluginsEditor/PluginsEditor.uplugin" 13
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin" 14
+"../../../Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin" 15
+"../../../Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin" 16
+"../../../Engine/Plugins/Experimental/CodeView/CodeView.uplugin" 17
+"../../../Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin" 18
+"../../../Engine/Plugins/Experimental/Phya/Phya.uplugin" 19
+"../../../Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin" 20
+"../../../Engine/Plugins/Experimental/SteamVR/SteamVR.uplugin" 21
+"../../../Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin" 22
+"../../../Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin" 23
+"../../../Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin" 24
+"../../../Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin" 25
+"../../../Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin" 26
+"../../../Engine/Plugins/Messaging/ShmMessaging/ShmMessaging.uplugin" 27
+"../../../Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin" 28
+"../../../Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin" 29
+"../../../Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin" 30
+"../../../Engine/Plugins/Runtime/Analytics/Apsalar/IOSApsalar/IOSApsalar.uplugin" 31
+"../../../Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin" 32
+"../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin" 33
+"../../../Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin" 34
+"../../../Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin" 35
+"../../../Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin" 36
+"../../../Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin" 37
+"../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin" 38
+"../../../Engine/Plugins/Runtime/GearVR/GearVR.uplugin" 39
+"../../../Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin" 40
+"../../../Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin" 41
+"../../../Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin" 42
+"../../../Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin" 43
+"../../../Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin" 44
+"../../../Engine/Plugins/Runtime/TwitchLiveStreaming/TwitchLiveStreaming.uplugin" 45
+"../../../Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin" 46
+"../../../Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin" 47
+"../../../Engine/Plugins/ScriptGeneratorPlugin/ScriptGeneratorPlugin.uplugin" 48
+"../../../Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin" 49
+"../../../Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin" 50
+"..\..\..\Engine\Content\Internationalization\icudt53l\cnvalias.icu" 51
+"..\..\..\Engine\Content\Internationalization\icudt53l\en_US_POSIX.res" 52
+"..\..\..\Engine\Content\Internationalization\icudt53l\pool.res" 53
+"..\..\..\Engine\Content\Internationalization\icudt53l\en_US.res" 54
+"..\..\..\Engine\Content\Internationalization\icudt53l\en.res" 55
+"..\..\..\Engine\Content\Internationalization\icudt53l\root.res" 56
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\ucadata.icu" 57
+"..\..\..\Engine\Content\Internationalization\icudt53l\nfc.nrm" 58
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\en_US_POSIX.res" 59
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\en_US.res" 60
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\en.res" 61
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\root.res" 62
+"..\..\..\Engine\Content\Internationalization\icudt53l\numberingSystems.res" 63
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\supplementalData.res" 64
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\pool.res" 65
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\en.res" 66
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\root.res" 67
+"..\..\..\Engine\Content\Internationalization\icudt53l\en_CA.res" 68
+"..\..\..\Engine\Content\Internationalization\icudt53l\plurals.res" 69
+"..\..\..\Engine\Content\Internationalization\icudt53l\windowsZones.res" 70
+"..\..\..\Engine\Content\Internationalization\icudt53l\zoneinfo64.res" 71
+"..\..\..\Engine\Content\Internationalization\icudt53l\keyTypeData.res" 72
+"..\..\..\Engine\Content\Internationalization\icudt53l\timezoneTypes.res" 73
+"..\..\..\Engine\Content\Internationalization\icudt53l\supplementalData.res" 74
+"..\..\..\Engine\Content\Internationalization\icudt53l\likelySubtags.res" 75
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\en_CA.res" 76
+"../../../Engine/Config/Base.ini" 77
+"../../../Engine/Config/BaseEngine.ini" 78
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Config/DefaultEngine.ini" 79
+"../../../Engine/Config/Windows/WindowsEngine.ini" 80
+"C:/Users/Ian/Programming/Game/BorderlandsDemake/Saved/Config/Windows/Engine.ini" 81
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Intermediate/Config/CoalescedSourceConfigs/Engine.ini" 82
+"../../../Engine/Config/BaseGame.ini" 83
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Config/DefaultGame.ini" 84
+"C:/Users/Ian/Programming/Game/BorderlandsDemake/Saved/Config/Windows/Game.ini" 85
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Intermediate/Config/CoalescedSourceConfigs/Game.ini" 86
+"../../../Engine/Config/BaseInput.ini" 87
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Config/DefaultInput.ini" 88
+"C:/Users/Ian/Programming/Game/BorderlandsDemake/Saved/Config/Windows/Input.ini" 89
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Intermediate/Config/CoalescedSourceConfigs/Input.ini" 90
+"../../../Engine/Config/BaseEditor.ini" 91
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Config/DefaultEditor.ini" 92
+"C:/Users/Ian/Programming/Game/BorderlandsDemake/Saved/Config/Windows/Editor.ini" 93
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Intermediate/Config/CoalescedSourceConfigs/Editor.ini" 94
+"../../../Engine/Config/BaseEditorLayout.ini" 95
+"C:/Users/Ian/Programming/Game/BorderlandsDemake/Saved/Config/Windows/EditorLayout.ini" 96
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Intermediate/Config/CoalescedSourceConfigs/EditorLayout.ini" 97
+"../../../Engine/Config/BaseEditorUserSettings.ini" 98
+"C:/Users/Ian/Programming/Game/BorderlandsDemake/Saved/Config/Windows/EditorUserSettings.ini" 99
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Intermediate/Config/CoalescedSourceConfigs/EditorUserSettings.ini" 100
+"../../../Engine/Config/BaseEditorKeyBindings.ini" 101
+"C:/Users/Ian/Programming/Game/BorderlandsDemake/Saved/Config/Windows/EditorKeyBindings.ini" 102
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Intermediate/Config/CoalescedSourceConfigs/EditorKeyBindings.ini" 103
+"../../../Engine/Config/BaseCompat.ini" 104
+"C:/Users/Ian/Programming/Game/BorderlandsDemake/Saved/Config/Windows/Compat.ini" 105
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Intermediate/Config/CoalescedSourceConfigs/Compat.ini" 106
+"../../../Engine/Config/BaseLightmass.ini" 107
+"C:/Users/Ian/Programming/Game/BorderlandsDemake/Saved/Config/Windows/Lightmass.ini" 108
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Intermediate/Config/CoalescedSourceConfigs/Lightmass.ini" 109
+"../../../Engine/Config/BaseScalability.ini" 110
+"C:/Users/Ian/Programming/Game/BorderlandsDemake/Saved/Config/Windows/Scalability.ini" 111
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Intermediate/Config/CoalescedSourceConfigs/Scalability.ini" 112
+"C:/Users/Ian/Programming/Game/BorderlandsDemake/Saved/Config/Windows/GameUserSettings.ini" 113
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Intermediate/Config/CoalescedSourceConfigs/GameUserSettings.ini" 114
+"../../../Engine/Config/BaseDeviceProfiles.ini" 115
+"C:/Users/Ian/Programming/Game/BorderlandsDemake/Saved/Config/Windows/DeviceProfiles.ini" 116
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Intermediate/Config/CoalescedSourceConfigs/DeviceProfiles.ini" 117
+"../../../Engine/Config/ConsoleVariables.ini" 118
+"..\..\..\Engine\Content\Internationalization\icudt53l\es.res" 119
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\es.res" 120
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\es.res" 121
+"..\..\..\Engine\Content\Internationalization\icudt53l\es_ES.res" 122
+"..\..\..\Engine\Content\Internationalization\icudt53l\ja.res" 123
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\ja.res" 124
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\ja.res" 125
+"..\..\..\Engine\Content\Internationalization\icudt53l\ja_JP.res" 126
+"..\..\..\Engine\Content\Internationalization\icudt53l\ko.res" 127
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\ko.res" 128
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\ko.res" 129
+"..\..\..\Engine\Content\Internationalization\icudt53l\ko_KR.res" 130
+"..\..\..\Engine\Content\Internationalization\icudt53l\pt_BR.res" 131
+"..\..\..\Engine\Content\Internationalization\icudt53l\pt.res" 132
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\pt.res" 133
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\pt.res" 134
+"..\..\..\Engine\Content\Internationalization\icudt53l\zh_CN.res" 135
+"..\..\..\Engine\Content\Internationalization\icudt53l\zh_Hans_CN.res" 136
+"..\..\..\Engine\Content\Internationalization\icudt53l\zh_Hans.res" 137
+"..\..\..\Engine\Content\Internationalization\icudt53l\zh.res" 138
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\zh_CN.res" 139
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\zh_Hans_CN.res" 140
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\zh_Hans.res" 141
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\zh.res" 142
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\zh_CN.res" 143
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\zh_Hans_CN.res" 144
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\zh_Hans.res" 145
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\zh.res" 146
+"C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Editor/en/Editor.locres" 147
+"C:/Program Files/Epic Games/4.7/Engine/Content/Localization/EditorTutorials/en/EditorTutorials.locres" 148
+"C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Engine/en/Engine.locres" 149
+"../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf" 150
+"../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf" 151
+"../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf" 152
+"../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf" 153
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleSpriteVertexFactory.usf" 154
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/VertexFactoryCommon.usf" 155
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/Common.usf" 156
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/MetalCommon.usf" 157
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ShaderVersion.usf" 158
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/Definitions.usf" 159
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/Random.usf" 160
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleVertexFactoryCommon.usf" 161
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleGPUSpriteVertexFactory.usf" 162
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleBeamTrailVertexFactory.usf" 163
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/VectorFieldVisualizationVertexFactory.usf" 164
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LocalVertexFactory.usf" 165
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LocalVertexFactoryCommon.usf" 166
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/MeshParticleVertexFactory.usf" 167
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/GpuSkinVertexFactory.usf" 168
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/GpuSkinCacheCommon.usf" 169
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LandscapeVertexFactory.usf" 170
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/SlateElementPixelShader.usf" 171
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/MaterialTemplate.usf" 172
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DepthOfFieldCommon.usf" 173
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/SpeedTreeCommon.usf" 174
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/AtmosphereCommon.usf" 175
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessCommon.usf" 176
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredShadingCommon.usf" 177
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LightAccumulator.usf" 178
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/SlateVertexShader.usf" 179
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/OneColorShader.usf" 180
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ResolveVertexShader.usf" 181
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ResolvePixelShader.usf" 182
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/VisualizeTexture.usf" 183
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ScreenSpaceReflections.usf" 184
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/BRDF.usf" 185
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/MonteCarlo.usf" 186
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/FilterVertexShader.usf" 187
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/FilterPixelShader.usf" 188
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessVisualizeHDR.usf" 189
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHistogramCommon.usf" 190
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/TonemapCommon.usf" 191
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/MiniFontCommon.usf" 192
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessVisualizeBuffer.usf" 193
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessUpscale.usf" 194
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessTonemap.usf" 195
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessTestImage.usf" 196
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessTemporalAA.usf" 197
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessTemporalCommon.usf" 198
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessSubsurface.usf" 199
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/SeparableSSS.usf" 200
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessSelectionOutline.usf" 201
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessSceneColorFringe.usf" 202
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessNoiseBlur.usf" 203
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessMotionBlur.usf" 204
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessMobile.usf" 205
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessMaterialShaders.usf" 206
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessLensFlares.usf" 207
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessLensBlur.usf" 208
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessBloom.usf" 209
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHMD.usf" 210
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHistogramReduce.usf" 211
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHistogram.usf" 212
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessGBufferHints.usf" 213
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessEyeAdaptation.usf" 214
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessDownsample.usf" 215
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessDOF.usf" 216
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessCompositeEditorPrimitives.usf" 217
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessCombineLUTs.usf" 218
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessBusyWait.usf" 219
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessBokehDOF.usf" 220
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/FXAAShader.usf" 221
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/Fxaa3_11.usf" 222
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessPassThrough.usf" 223
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessLpvIndirect.usf" 224
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredLightingCommon.usf" 225
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DynamicLightingCommon.usf" 226
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/IESLightProfilesCommon.usf" 227
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LPVFinalPass.usf" 228
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LPVCommon.usf" 229
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredDecal.usf" 230
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessAmbientOcclusion.usf" 231
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessAmbient.usf" 232
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/CubemapCommon.usf" 233
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/VelocityShader.usf" 234
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/Tessellation.usf" 235
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/FlatTessellation.usf" 236
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PNTriangles.usf" 237
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/TranslucentLightingShaders.usf" 238
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/SHCommon.usf" 239
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowProjectionCommon.usf" 240
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/TranslucentLightInjectionShaders.usf" 241
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LightFunctionCommon.usf" 242
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/TranslucentShadowDepthShaders.usf" 243
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowDepthCommon.usf" 244
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/TiledDeferredLightShaders.usf" 245
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowProjectionPixelShader.usf" 246
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowFilteringCommon.usf" 247
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowProjectionVertexShader.usf" 248
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowDepthPixelShader.usf" 249
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LPVWriteVplCommon.usf" 250
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LPVWriteCommon.usf" 251
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowDepthVertexShader.usf" 252
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ShaderComplexityApplyPixelShader.usf" 253
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ShaderComplexityApplyVertexShader.usf" 254
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ShaderComplexityAccumulatePixelShader.usf" 255
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/HZBOcclusion.usf" 256
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/OcclusionQueryVertexShader.usf" 257
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/HitProxyPixelShader.usf" 258
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/HitProxyVertexShader.usf" 259
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ReflectionEnvironmentShaders.usf" 260
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ReflectionEnvironmentShared.usf" 261
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/SkyLightingShared.usf" 262
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ReflectionEnvironmentComputeShaders.usf" 263
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LightShaftShader.usf" 264
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/StationaryLightOverlapShaders.usf" 265
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredLightPixelShaders.usf" 266
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredLightVertexShaders.usf" 267
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LPVVisualise.usf" 268
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LPVGeometryVolumeCommon.usf" 269
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LPVDirectLightInject.usf" 270
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LPVPropagate.usf" 271
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LPVBuildGeometryVolume.usf" 272
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LPVInject_AccumulateVplLists.usf" 273
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LPVInject_GenerateVplLists.usf" 274
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LPVClearLists.usf" 275
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LPVClear.usf" 276
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LightMapDensityShader.usf" 277
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LightFunctionPixelShader.usf" 278
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LightFunctionVertexShader.usf" 279
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/HdrCustomResolveShaders.usf" 280
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/GPUBenchmark.usf" 281
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/GammaCorrection.usf" 282
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassForForwardShadingPixelShader.usf" 283
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassForForwardShadingCommon.usf" 284
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/LightmapCommon.usf" 285
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassForForwardShadingVertexShader.usf" 286
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/HeightFogCommon.usf" 287
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/HeightFogPixelShader.usf" 288
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/HeightFogVertexShader.usf" 289
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DistortAccumulatePS.usf" 290
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DistortAccumulateVS.usf" 291
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DistortApplyScreenPS.usf" 292
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldSurfaceCacheLighting.usf" 293
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldLightingShared.usf" 294
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldAOShared.usf" 295
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/SkyLighting.usf" 296
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldSurfaceCacheLightingCompute.usf" 297
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldShadowing.usf" 298
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DepthOnlyPixelShader.usf" 299
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DepthOnlyVertexShader.usf" 300
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/PositionOnlyDepthVertexShader.usf" 301
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/DownsampleDepthPixelShader.usf" 302
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassPixelShader.usf" 303
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassCommon.usf" 304
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassVertexShader.usf" 305
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassVertexCommon.usf" 306
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassTessellationShaders.usf" 307
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/AtmospherePrecompute.usf" 308
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/AtmospherePrecomputeCommon.usf" 309
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/AtmospherePrecomputeInscatter.usf" 310
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/AtmosphericFogShader.usf" 311
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleSortKeyGen.usf" 312
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleBoundsShader.usf" 313
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleSimVisualizeShader.usf" 314
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleInjectionShader.usf" 315
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleSimulationShader.usf" 316
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleCurveInjectionShader.usf" 317
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/VectorFieldCompositeShaders.usf" 318
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/UpdateTextureShaders.usf" 319
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementColorChannelMaskPixelShader.usf" 320
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementHitProxyPixelShader.usf" 321
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementPixelShader.usf" 322
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ColorUtils.usf" 323
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementVertexShader.usf" 324
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ScreenVertexShader.usf" 325
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ScreenPixelShader.usf" 326
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/RadixSortShaders.usf" 327
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/GpuSkinCacheComputeShader.usf" 328
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/NullPixelShader.usf" 329
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/ClearReplacementShaders.usf" 330
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementTexture2DPreviewPixelShader.usf" 331
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementNormalMapPixelShader.usf" 332
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/meshpaintdilatepixelshader.usf" 333
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/meshpaintdilatevertexshader.usf" 334
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/MeshPaintPixelShader.usf" 335
+"C:/Program Files/Epic Games/4.7/Engine/Binaries/Win64/../../../Engine/Shaders/MeshPaintVertexShader.usf" 336
+"../../../Engine/Config/Android/AndroidEngine.ini" 337
+"../../../Engine/Config/HTML5/HTML5Engine.ini" 338
+"../../../Engine/Config/IOS/IOSEngine.ini" 339
+"../../../Engine/Config/Linux/LinuxEngine.ini" 340
+"C:/Users/Ian/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc" 341
+"../../../Engine/DerivedDataCache/Compressed.ddp" 342
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 343
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 344
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 345
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 346
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 347
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 348
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 349
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 350
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 351
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 352
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 353
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 354
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 355
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 356
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 357
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 358
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 359
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 360
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 361
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 362
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 363
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 364
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 365
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 366
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 367
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 368
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 369
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 370
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 371
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 372
+"../../../Engine/Content/EngineResources/Black.uasset" 373
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 374
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 375
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 376
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 377
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 378
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 379
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 380
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 381
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 382
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 383
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 384
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 385
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 386
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 387
+"../../../Engine/Content/EngineSounds/Master.uasset" 388
+"../../../Engine/Content/EngineSounds/Music.uasset" 389
+"../../../Engine/Content/EngineSounds/SFX.uasset" 390
+"../../../Engine/Content/EngineSounds/Normal_Attack.uasset" 391
+"../../../Engine/Content/EngineSounds/Special_Attack_PSM.uasset" 392
+"../../../Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset" 393
+"../../../Engine/Content/EngineSounds/Voice.uasset" 394
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 395
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 396
+"../../../Engine/Content/EngineTireTypes/DefaultTireType.uasset" 397
+"../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf" 398
+"../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf" 399
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf" 400
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-Black.ttf" 401
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf" 402
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf" 403
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 404
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 405
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 406
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 407
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 408
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 409
+"C:/Users/Ian/AppData/Local/UnrealEngine/4.7/Saved/Config/Windows/SourceControlSettings.ini" 410
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Intermediate/Config/CoalescedSourceConfigs/SourceControlSettings.ini" 411
+"C:/Users/Ian/Programming/Game/BorderlandsDemake/Saved/Config/Windows/SourceControlSettings.ini" 412
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 413
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 414
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 415
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 416
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 417
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 418
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 419
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 420
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 421
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 422
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 423
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 424
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 425
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Intermediate/CachedAssetRegistry.bin" 426
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Characters/Blueprints/CharacterBaseClass.uasset" 427
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Levels/DefaultLevel.umap" 428
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/Blueprints/PickupBaseClass.uasset" 429
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/Guns/Blueprints/GunBaseClass.uasset" 430
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/Guns/Blueprints/gunBlueprints/Dahl/Repeater.uasset" 431
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/7/35C7D27E437A3CE93D0EE8B0DCBAF4BF.udd" 432
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/4/CCABD312498B9FF9D42DC095797E3BA8.udd" 433
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 434
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 435
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 436
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 437
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 438
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 439
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 440
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 441
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 442
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 443
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 444
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 445
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 446
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 447
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 448
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 449
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 450
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 451
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 452
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Blueprints/myGameInstance.uasset" 453
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/Blueprints/inventory.uasset" 454
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 455
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Characters/Blueprints/AnimationState.uasset" 456
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Blueprints/usableObject.uasset" 457
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/Blueprints/attachmentPoint.uasset" 458
+"../../../Engine/Content/BasicShapes/Cube.uasset" 459
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 460
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 461
+"../../../Engine/Content/BasicShapes/Cone.uasset" 462
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Characters/Fipbooks/IdleFlipbook.uasset" 463
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Characters/Sprites/2DCharacter_IdleAnimAtlas_Sprite_0.uasset" 464
+"../../../Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 465
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Characters/Textures/2DCharacter_IdleAnimAtlas.uasset" 466
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Characters/Sprites/2DCharacter_IdleAnimAtlas_Sprite_1.uasset" 467
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Characters/Sprites/2DCharacter_IdleAnimAtlas_Sprite_2.uasset" 468
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Characters/Sprites/2DCharacter_IdleAnimAtlas_Sprite_3.uasset" 469
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Characters/Sprites/2DCharacter_IdleAnimAtlas_Sprite_4.uasset" 470
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Characters/Sprites/2DCharacter_IdleAnimAtlas_Sprite_5.uasset" 471
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Characters/Sprites/2DCharacter_IdleAnimAtlas_Sprite_6.uasset" 472
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Characters/Sprites/2DCharacter_IdleAnimAtlas_Sprite_7.uasset" 473
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Characters/Sprites/loot_pointer_Sprite.uasset" 474
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Characters/Textures/loot_pointer.uasset" 475
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Blueprints/pickupFunctions.uasset" 476
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/Blueprints/LootRarity.uasset" 477
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/Guns/Sprites/temp_gun_Sprite.uasset" 478
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/Guns/Textures/temp_gun.uasset" 479
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/LightBeams/Sprites/white_light_Sprite.uasset" 480
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/LightBeams/Materials/white_light.uasset" 481
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/Guns/Blueprints/GunTypes.uasset" 482
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/Guns/Blueprints/GunManufacturers.uasset" 483
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/Guns/Blueprints/ElementalTypes.uasset" 484
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/Guns/Blueprints/MuzzleFlash.uasset" 485
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/Guns/Sprites/muzzle_flash2_Sprite.uasset" 486
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/Guns/Textures/muzzle_flash2.uasset" 487
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/Blueprints/LootFunctions.uasset" 488
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/LightBeams/Sprites/blue_light_Sprite.uasset" 489
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/LightBeams/Materials/blue_light.uasset" 490
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/LightBeams/Sprites/eridium_light_Sprite.uasset" 491
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/LightBeams/Materials/eridium_light.uasset" 492
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/LightBeams/Sprites/etech_light_Sprite.uasset" 493
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/LightBeams/Materials/etech_light.uasset" 494
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/LightBeams/Sprites/green_light_Sprite.uasset" 495
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/LightBeams/Materials/green_light.uasset" 496
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/LightBeams/Sprites/health_light_Sprite.uasset" 497
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/LightBeams/Materials/health_light.uasset" 498
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/LightBeams/Sprites/mission_light_Sprite.uasset" 499
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/LightBeams/Materials/mission_light.uasset" 500
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/LightBeams/Sprites/money_light_Sprite.uasset" 501
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/LightBeams/Materials/money_light.uasset" 502
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/LightBeams/Sprites/orange_light_Sprite.uasset" 503
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/LightBeams/Materials/orange_light.uasset" 504
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/LightBeams/Sprites/purple_light_Sprite.uasset" 505
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/LightBeams/Materials/purple_light.uasset" 506
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/Guns/Sprites/temp_gun_2_Sprite.uasset" 507
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/Guns/Textures/temp_gun_2.uasset" 508
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Characters/Fipbooks/crouching.uasset" 509
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Characters/Sprites/crouching.uasset" 510
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Characters/Textures/CharacterJumping.uasset" 511
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Characters/Fipbooks/Falling.uasset" 512
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Characters/Sprites/CharacterJumping_Sprite.uasset" 513
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Characters/Fipbooks/Running.uasset" 514
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Characters/Sprites/2DCharacter_RunAnimAtlas_Sprite_0.uasset" 515
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Characters/Textures/2DCharacter_RunAnimAtlas.uasset" 516
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Characters/Sprites/2DCharacter_RunAnimAtlas_Sprite_1.uasset" 517
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Characters/Sprites/2DCharacter_RunAnimAtlas_Sprite_10.uasset" 518
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Characters/Sprites/2DCharacter_RunAnimAtlas_Sprite_11.uasset" 519
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Characters/Sprites/2DCharacter_RunAnimAtlas_Sprite_12.uasset" 520
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Characters/Sprites/2DCharacter_RunAnimAtlas_Sprite_13.uasset" 521
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Characters/Sprites/2DCharacter_RunAnimAtlas_Sprite_14.uasset" 522
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Characters/Sprites/2DCharacter_RunAnimAtlas_Sprite_15.uasset" 523
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Characters/Sprites/2DCharacter_RunAnimAtlas_Sprite_2.uasset" 524
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Characters/Sprites/2DCharacter_RunAnimAtlas_Sprite_3.uasset" 525
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Characters/Sprites/2DCharacter_RunAnimAtlas_Sprite_4.uasset" 526
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Characters/Sprites/2DCharacter_RunAnimAtlas_Sprite_5.uasset" 527
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Characters/Sprites/2DCharacter_RunAnimAtlas_Sprite_6.uasset" 528
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Characters/Sprites/2DCharacter_RunAnimAtlas_Sprite_7.uasset" 529
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Characters/Sprites/2DCharacter_RunAnimAtlas_Sprite_8.uasset" 530
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Characters/Sprites/2DCharacter_RunAnimAtlas_Sprite_9.uasset" 531
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Characters/Fipbooks/Sprinting.uasset" 532
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_828D0CF040DA458F29CF2FA0FEF3C__B23ABFB8F86A99BA28FE1E02DA635805F6EAA93B.udd" 533
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_BDE25AE44A25B6576CD65ABBE66D6__AFE7CB0826004B7086A2C6480AAAB889EA64E3A1.udd" 534
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_828D0CF040DA458F29CF2FA0FEF3C__2C0D3DBB775DA0A7713782112F662AA3B56265C8.udd" 535
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_828D0CF040DA458F29CF2FA0FEF3C__BD5F9DA95293EF6B1E6D6C94DF9EB3BDA5A44C95.udd" 536
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_828D0CF040DA458F29CF2FA0FEF3C__EFB2D25540034B26BF38738EBE427308AF3DCBC9.udd" 537
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_828D0CF040DA458F29CF2FA0FEF3C__9ABDE1680481E9EAAE4C5DD41FDC3B253DFBAB63.udd" 538
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_8BEB8FDE4ABB7F47AF1D12B498549B5__8CCD43FF0C479FDDF031C9AB2741103AE9D0EF90.udd" 539
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_7983958C400AB4355C336AAE5F70F__2FE27C50FAD86C437CB004C33EFF0322D0ECD335.udd" 540
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_2CA8B33F42B1EAB3274BA2A6073D4__483E1B215AB6C0F08B518C441DFE6840192A01CA.udd" 541
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_E977A5E74878A4E94B737CB32B1D7__393CB1121FD047BA82818D4F8D4F8E91E50D315B.udd" 542
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_4098134B49BAAED9FCCB2CB975C86__5423EBD2893D49AB5A0109F6EB1222DB47C364BA.udd" 543
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_5B4DF6C04F967BA023F2949DBBD00__929260CB563F88CBAF81EC85F1D3FE685589BC5A.udd" 544
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_9CAC5E1543590A79EB3D338731842__2F1520E16E4D4BF806AD58594C9B45361BBF14A8.udd" 545
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_DDA06BF047EC6B25A7EFBE8A7BCB3__279802207488452078A4A4634B48C37075C345F2.udd" 546
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_2204D48E4260737CA44B82A00E9C5__479D6ABA095630724F2C28880C0C990F697184D4.udd" 547
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_3646846E468662B4A14402A62A4E8__035BDBC6A599608CD21D69E657A5FB3EEBAA8C26.udd" 548
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_7A383B1A43B7311AE129399ACA997__F60F15CF23F249958AD653DBF4D9D1AA981AC60C.udd" 549
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_ABC6A57441C1AC9166AFEDA9B8C7F__EE56D0CD9EEA608D9B6D7E3C933A5E9B2CABBF13.udd" 550
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_06D1292F4A9B866797C0AFB0CA3EF__6D2128E497669149F719A51C85838DDCFCA9DF4D.udd" 551
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_6BCA088748134F4526D9298D3B049__C04CC5F0B1E7209CC8DD14B97A3B802BC2C9AA11.udd" 552
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_2B7895EF4F16CEAE86E33BA39B6B7__61B74E3473C9DD2771670BA19FE2854410CF910A.udd" 553
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_6BCA088748134F4526D9298D3B049__235F5780DA8648057FEC43C329926EDB6104E6E3.udd" 554
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_2B7895EF4F16CEAE86E33BA39B6B7__1BCD497F64B63C5EE45A7E82D8986FF24B3D1916.udd" 555
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_6BCA088748134F4526D9298D3B049__63965F414F3FAC01F028E069232A3B39A3D645F6.udd" 556
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_2B7895EF4F16CEAE86E33BA39B6B7__EA796F0149553D51F16541F76C94FB10FCF72B73.udd" 557
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_2B7895EF4F16CEAE86E33BA39B6B7__369AD7B4EDA962008EFE99B6E06BC38A402620E1.udd" 558
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_2B7895EF4F16CEAE86E33BA39B6B7__53E46D35E6C46333BEE7B596D49991584992D117.udd" 559
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/4/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_A1657FED4339640D77E084B1E1D93632__1_1_13075_0.udd" 560
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/7/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_F0B9E331492D549D5F108682FC37C1FC__1_1_13075_0.udd" 561
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/0/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_2663CB844F66383D30D767B5F050321D__1_1_13075_0.udd" 562
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Blueprints/DefaultGameMode.uasset" 563
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/Guns/Blueprints/gunBlueprints/Vladof/Rifle.uasset" 564
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Levels/Blueprints/chest.uasset" 565
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Levels/Flipbooks/dahl_big_chest_closed_Flipbook.uasset" 566
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Levels/Sprites/dahl_big_chest_Sprite.uasset" 567
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Levels/Textures/dahl_big_chest.uasset" 568
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Levels/Sprites/dahl_big_chest_-_lights_Sprite.uasset" 569
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Levels/Textures/dahl_big_chest_-_lights_out.uasset" 570
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/Guns/Blueprints/GunList.uasset" 571
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/Other/Blueprints/EridumPickup.uasset" 572
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/Other/Sprites/eridium_Sprite.uasset" 573
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/Other/Materials/eridium.uasset" 574
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Sprites/Protype.uasset" 575
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Materials/LevelPrototype.uasset" 576
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Textures/PrototypeTexture.uasset" 577
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Textures/2DBackgroundTile.uasset" 578
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_457E01B548BA60BD74B8EE9B39D3F__35B730AA78E1D33B30D2F8DB27ED5A7ABAAC6B77.udd" 579
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_457E01B548BA60BD74B8EE9B39D3F__E48BECA70184C2ED5A0D31F4CE05E70B56629F2A.udd" 580
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_D3CBB2694549AAC8B0ADFFA197951__F96BCF5AF75316A6CB89EC413323B4D6AA7D9368.udd" 581
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_7964398C443318725BBC6DA7C89D0__A19B1F662CC5A29AB9CAC209131C2F69F2247F6C.udd" 582
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_D9F9152B454BCC2F178BFFA3A3C81__DBD64C6243ACBA726DC5B32DBFE90DF1631D941C.udd" 583
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_7964398C443318725BBC6DA7C89D0__AF2E882EEE307834FBF74C2066092C54DB9E165C.udd" 584
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_D9F9152B454BCC2F178BFFA3A3C81__785675AB5791771AF3DB2CD44A47AFA1E42CBBE3.udd" 585
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_7964398C443318725BBC6DA7C89D0__10188A7670C9837E8777EECDF036F1EC001BF2FF.udd" 586
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_AD3D2A3242504EE2863D6C862BAFB__BBDCB194441BC51BFA237E4CFECA5A5532FB204C.udd" 587
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_AD3D2A3242504EE2863D6C862BAFB__E2DED07B735B998410361AD07644827B65CC4BB2.udd" 588
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_AD3D2A3242504EE2863D6C862BAFB__828381843E8DE40CDF859D73268B605852010FFD.udd" 589
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/4/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_A8E26FFE4D70D928EE91AC95F744B44A__1_1_13075_0.udd" 590
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/7/PHYSX_$7B1F0627AE$2DABEB$2D4206$2D8D78$2DE16BEB5DDC7E$7D_PHYSXPC_D77888E741582E2AB03889B914128796__1_1_13075_0.udd" 591
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/7/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM5_2__BC5N_DEV_SL_NODBUF42668997__5060F0950A56B8F86277EAB065CAE69887BD3EE5.udd" 592
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/8/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_PCD3D_SM4_2__BC5N_DEV_SL_NODBUF42668997__DB6636D7CA7AA23E426A205E21D27980007A3580.udd" 593
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 594
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Textures/CharacterJumping_Sprite.uasset" 595
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Textures/background-512_Sprite.uasset" 596
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Textures/background-512.uasset" 597
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Textures/2DCharacter_IdleAnimAtlas_Sprite_7.uasset" 598
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Textures/2DCharacter_IdleAnimAtlas_Sprite_6.uasset" 599
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_1B7FC1A6482F0CDB8F549CB83C9BD__378C3F083C8500339F6EE2B82B183DC2DB8FD4B3.udd" 600
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Textures/2DCharacter_IdleAnimAtlas_Sprite_5.uasset" 601
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Textures/2DCharacter_IdleAnimAtlas_Sprite_4.uasset" 602
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_1B7FC1A6482F0CDB8F549CB83C9BD__0669B9B1EF2FA8DBA45D5EA276C0F6F63E3A7162.udd" 603
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Textures/2DCharacter_IdleAnimAtlas_Sprite_3.uasset" 604
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_1B7FC1A6482F0CDB8F549CB83C9BD__5328E9C1A15C52A3CCCC0FDB198DF82AA70C955B.udd" 605
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_1B7FC1A6482F0CDB8F549CB83C9BD__0607C80A44A3353BDC1F1CDC71B8B2F392EABAB0.udd" 606
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Textures/2DCharacter_IdleAnimAtlas_Sprite_2.uasset" 607
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Textures/2DCharacter_IdleAnimAtlas_Sprite_1.uasset" 608
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Textures/2DCharacter_IdleAnimAtlas_Sprite_0.uasset" 609
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Textures/2DBackground_Sprite.uasset" 610
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Textures/2DBackgroundTile_Sprite.uasset" 611
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Sprites/Running.uasset" 612
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Sprites/IdleFlipbook.uasset" 613
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Sprites/Falling.uasset" 614
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Sprites/CharacterJumping.uasset" 615
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Sprites/2DCharacter_RunAnimAtlas_Sprite_02.uasset" 616
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Sprites/2DCharacter_RunAnimAtlas.uasset" 617
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Sprites/2DCharacter_IdleAnimAtlas.uasset" 618
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Resources/Backgrounds/background-512_Sprite.uasset" 619
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Materials/eridium_Sprite.uasset" 620
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/LightBeams/Sprites/legendary_light_Sprite.uasset" 621
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/LightBeams/Sprites/green_light_Sprite2.uasset" 622
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/LightBeams/Sprites/eridium_light_Sprite2.uasset" 623
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/LightBeams/Materials/orange_light_Sprite.uasset" 624
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/LightBeams/Materials/etech_light_Sprite.uasset" 625
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/Guns/Blueprints/gunBlueprints/tempGun.uasset" 626
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/Guns/Blueprints/DamageBlueprints/test.uasset" 627
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/Guns/Blueprints/ScopeTypes.uasset" 628
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/Guns/Blueprints/recoilStack.uasset" 629
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/Guns/Blueprints/GunBaseClass_Child.uasset" 630
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/Guns/Blueprints/EnemyBaseClass.uasset" 631
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Loot/Guns/Blueprints/Bullet.uasset" 632
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Enemies/Blueprints/EnemyBaseClass.uasset" 633
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Levels/Textures/dahl_big_chest_-_lights_Sprite.uasset" 634
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Levels/Textures/dahl_big_chest_-_lights.uasset" 635
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_71A62F04438A92159895CAB7F6F47__49F5AD8193F5DF93179890A332903036E7F453EE.udd" 636
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Levels/Sprites/dahl_big_chest_closed_Flipbook.uasset" 637
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Levels/Sprites/background-512_Sprite.uasset" 638
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Levels/Blueprints/JumpThoughPlatform.uasset" 639
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_71A62F04438A92159895CAB7F6F47__968002F411654D81C97C681E231BE9717DE9AC7C.udd" 640
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Guns/Textures/muzzle_flash2_Sprite.uasset" 641
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Guns/Blueprints/SpawnGun.uasset" 642
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Data/temp_gun.uasset" 643
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Characters/Sprites/crouching_Flipbook.uasset" 644
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Characters/Blueprints/Character_inventory.uasset" 645
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Blueprints/testGameState.uasset" 646
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Blueprints/Pickuptemp.uasset" 647
+"../../../../../../Users/Ian/Programming/Game/BorderlandsDemake/Content/Audio/Starter_Music01.uasset" 648
+"C:/Users/Ian/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/3/AUDIO_0002_0000_OGG_0001_200E70834364180255EB948634A97F18.udd" 649
