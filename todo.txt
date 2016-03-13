@@ -1,0 +1,4 @@
+BLDM
+- Hold pickup adds gun twice
+- all players are spawned as red P1 
+- Camera doesnt test height
