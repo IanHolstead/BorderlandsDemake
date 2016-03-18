@@ -2,3 +2,21 @@ BLDM
 - Hold pickup adds gun twice
 - all players are spawned as red P1 
 - Camera doesnt test height
+
+Gun Refactoring
+- guns should have a gun state, -> the data should be seperated from the current state and code
+- gun ageing should use time rather than 0 to reduce iterations -> just pop top
+
+UI:
+1) Character HUD
+5) main menu
+2) gun cards
+3) base shared (map ->, etc)
+4) pause menu
+
+Player refactoring:
+- use player state rather than player
+
+Game 
+
+move plan to this file
