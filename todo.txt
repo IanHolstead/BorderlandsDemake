@@ -20,3 +20,7 @@ Player refactoring:
 Game 
 
 move plan to this file
+
+
+Usable object Interface
+- add count to see how many players are pointing at it
